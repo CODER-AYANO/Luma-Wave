@@ -52,7 +52,7 @@ The left and right sides are exact mirrors of the same audio spectrum, with a ga
 
 # 🚀 Installation
 
-## Option 1 — Download the executable
+## Download the executable
 
 The easiest way to use Wallpaper Visualizer is to download the latest Windows executable from the GitHub Releases page.
 
