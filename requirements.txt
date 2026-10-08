@@ -1,0 +1,5 @@
+numpy
+Pillow
+pyaudiowpatch
+PySide6
+pywin32
