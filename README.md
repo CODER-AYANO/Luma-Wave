@@ -1,4 +1,4 @@
-# 🎵 Wallpaper Visualizer
+# 🎵 Luma Wave
 
 A lightweight Windows desktop audio visualizer that reacts to system audio and displays a smooth mirrored spectrum over your wallpaper.
 
@@ -60,9 +60,9 @@ The left and right sides are exact mirrors of the same audio spectrum, with a ga
 
 ## Download the executable
 
-The easiest way to use Wallpaper Visualizer is to download the latest Windows executable from the GitHub Releases page.
+The easiest way to use Luma Wave is to download the latest Windows executable from the GitHub Releases page.
 
 Download:
 
 ```text
-WallpaperVisualizer.exe
+LumaWave.exe
