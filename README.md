@@ -28,6 +28,12 @@ The visualizer sits near the bottom of the desktop and reacts to whatever audio 
 
 The left and right sides are exact mirrors of the same audio spectrum, with a gap in the center.
 
+<img width="1919" height="1199" alt="Screenshot 2026-10-08 211824" src="https://github.com/user-attachments/assets/90464b2f-908b-4b51-80f7-835c6a141a90" />
+<img width="1919" height="1199" alt="Screenshot 2026-10-08 211813" src="https://github.com/user-attachments/assets/7ee02144-fc27-431b-9b6e-ba5bd3e31d0e" />
+<img width="1919" height="1199" alt="Screenshot 2026-10-08 211758" src="https://github.com/user-attachments/assets/c545510e-980c-4012-a40f-263ad62be0cd" />
+<img width="1919" height="1199" alt="Screenshot 2026-10-08 211745" src="https://github.com/user-attachments/assets/70a39eaf-aaaf-4c73-9527-8427482f2fde" />
+<img width="1919" height="1198" alt="Screenshot 2026-10-08 211726" src="https://github.com/user-attachments/assets/74d5ef5f-d51d-4b5a-bb93-76df00e617fc" />
+
 ---
 
 ## 🛠️ Tech Stack
